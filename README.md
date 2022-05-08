@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adarsh Kumar Pandey
+- 👋 Hi, I’m Adarsh Kumar Pandey.
 - 👀 I’m interested in coding , web developing.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on linkedin.
